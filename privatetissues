@@ -26,7 +26,6 @@ skillTwo.Text = "Perfect Swipes"
 skillThree.Text = "Trutly a Curse"
 skillThreeTip.Text = "VARIANT KOKUSEN"
 skillFour.Text = "ROLL"
-skillFourTip.Text = Evasive
 ultTitle.Text = "Business Time."
 -- SKILL 1 --
 
